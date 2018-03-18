@@ -4,4 +4,4 @@ This is a simple project
 
 adding more text
 
-This is bound to cause trouble!
+Just something going on
